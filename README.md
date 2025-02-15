@@ -1,5 +1,9 @@
 Welcome to my "bluetooth" Kobo Page Turner project.
 
+Makers World link:
+
+https://makerworld.com/en/models/1109770
+
 
 The project was born because my wife wanted a pageTurner for the KOBO Libra, and everything she found didn't meet her needs, and as I had some material that I wasn't using,
 I decided to accept the challenge. Basically, I just needed to emulate a keyboard and be able to connect via Bluetooth, to avoid more connections.
