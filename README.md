@@ -9,6 +9,7 @@ You can change the button order to suit your needs.
 Or change the Led brightness.
 
 // Define the pins for the buttons and LED
+
 const int buttonPin1 = D5;     // Button 1 (will send Left Arrow)
 
 const int buttonPin2 = D4;     // Button 2 (will send Right Arrow)
